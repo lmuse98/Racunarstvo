@@ -18,6 +18,7 @@ ssl_client_socket.connect((host,port))
 
 print (ssl_client_socket.recv(1024))
 
+
 ssl_client_socket.close()
 t2 =datetime.datetime.now()
 
