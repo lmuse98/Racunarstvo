@@ -8,6 +8,7 @@ print(datetime.datetime.now())
 
 print("------------------------------------------------")
 	
+    
 server_socket = socket.socket()
 host = "localhost"
 port = 7000
